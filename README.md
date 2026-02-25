@@ -1,5 +1,5 @@
 # Sales-Trends-Power-BI
-This Project analyses how the website performance of a clothing brand impacts its global sales.
+This Project analyses how the website performance of a clothing brand impacts its global sales. (Using Power BI)
 
 
 <h4> Project </h4>
